@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Ansvver to the question vvhy may not the English assist the Svvede, as well as the Dutch do the Dane</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25616</idno>
+            <idno type="STC">Wing A3439</idno>
+            <idno type="STC">ESTC R13281</idno>
+            <idno type="EEBO-CITATION">12647613</idno>
+            <idno type="OCLC">ocm 12647613</idno>
+            <idno type="VID">65190</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65190)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 340:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Ansvver to the question vvhy may not the English assist the Svvede, as well as the Dutch do the Dane</title>
+               </titleStmt>
+               <extent>[3], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Imperfect: Some print show-through on film.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dano-Swedish Wars, 1657-1660.</term>
+               <term>Great Britain --  Foreign relations --  Sweden.</term>
+               <term>Sweden --  Foreign relations --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65190:1"/>
+            <pb facs="tcp:65190:1" rendition="simple:additions"/>
+            <p>AN ANSVVER TO THE QUESTION VVhy may not The ENGLISH ASSIST The SVVEDE, As well as the DUTCH do The DANE.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65190:2"/>
+            <pb n="1" facs="tcp:65190:2"/>
+            <head>AN ANSVVER TO THE QUESTION, VVhy may not the ENGLISH ASSIST the SWEDE, as well as the DUTCH doe the DANE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU were pleaſed to ask me lately, <hi>Why</hi> England <hi>might not as well Aſſist the King of</hi> Sweden, <hi>as the United</hi> Netherland <hi>Pro<g ref="char:EOLhyphen"/>vinces did ſend Succour to the King of</hi> Denmark?</p>
+            <p>Believing, that it will be acceptable to your ſelf, and other Noble Gentlemen, and all impartiall lovers of the <hi>Engliſh</hi> Nation, that the ſame Queſtion be Anſwered: I do firſt offer it to your Conſideration; Whether it be not requiſite to examine the divers State and Condition of
+<pb n="2" facs="tcp:65190:3"/>the Parties, who are Diſtreſſed and ſtand in need of Succour? and who do ſuffer Wrong, and of thoſe, who are the Wrong doers? For Nature, Humanity, Reaſon, and the Lawes of all Nations, do clearly dictare, that Affliction is not to be added to the Afflicted; And that no Succour ought to be given to the Oppreſiour, againſt the Oppreſſed. Upon which ground, I intreat you Secondly, to Conſider, There being, beſides the <hi>Swediſh</hi> Navy, no Ships of Warre in the <hi>Sound,</hi> or <hi>Baltick</hi> Sea, but ſome of <hi>Denmark,</hi> and the <hi>United</hi> Provinces: Whether the <hi>Engliſh</hi> Succour in thoſe Parts, could be employed, or made uſe of with Honour, and a good Conſcience, againſt <hi>Denmark,</hi> or againſt the ſaid <hi>United</hi> Provinces?</p>
+            <p n="1">1. Conſidering that the whole Kingdome of <hi>Denmark</hi> was ſurprized and invaded, and almoſt totally ſubdued un<g ref="char:EOLhyphen"/>der the power of the King of <hi>Sweden,</hi> except onely the City of <hi>Coppenhagen,</hi> which was not onely cloſely beſeged; by a Roial <hi>Swediſh</hi> Army by Land, but alſo by a potent Navy of that King by Sea, and daily aſſaulted, and no meanes of fire, and other deſtructive inſtruments, and engines omitted to force that City, and to oppreſſe in the ſame, the King of <hi>Denmark,</hi> with his Royall Family, and the Councell of the Kingdome. Whereby it appears, that the ſaid King of <hi>Denmark</hi> was in a ſad and diſtreſſed condition, having ſur<g ref="char:EOLhyphen"/>rendred upon the Treaty of <hi>Raskild,</hi> mediated by a publick Miniſter of <hi>England,</hi> betwixt the two Kings, in <hi>February</hi> laſt, 1657. A great part of the Kingdome of <hi>Denmark,</hi> to<g ref="char:EOLhyphen"/>gether with all the ſtrongeſt and moſt conſiderable Caſtles, and Places of <hi>Norway.</hi> And being in Perſon with his Queen, and Children ſo extreamly oppreſſed, in the ſaid City of <hi>Coppenhagen,</hi> and with all ſorts of violence by Sea and Land aſſaulted; having not ſo much as one Compa<g ref="char:EOLhyphen"/>ny of Souldiers in the Field, nor one Ship of Warre at Sea in all his Kingdome of <hi>Denmark.</hi> When on the other ſide, the King of <hi>Sweden</hi> bad ſeverall Armies round about the <hi>Baltick</hi> Sea, in <hi>Livonia,</hi> and <hi>Curland</hi> in <hi>Pruſſia,</hi> in <hi>Pomerania,</hi> in the Dukedome of <hi>Br<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>,</hi> and in his Con<g ref="char:EOLhyphen"/>quered
+<pb n="3" facs="tcp:65190:3"/>Provinces and ſtrong Places in <hi>Jutland, Skonen, B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ekingen</hi> and <hi>Halland,</hi> beſides his Army in <hi>Zealand</hi> before the ſaid City. The ſaid King had alſo a numerous and ſtrong Navy more conſiderable, then ever any King of <hi>Sweden</hi> had brought to Sea before: Wherewith he had made himſelfe Maſter of the Sound, and all the other paſſages out of the Weſtern Seas, to the Eaſt Countries, and exacted there Tolls of all Nations. So you ſee, that the King of <hi>Sweden</hi> was in a Conquering formidable condition, aſſaulting and oppreſſing the King of <hi>Denmark,</hi> a Proteſtant Prince, In amity, and Al<g ref="char:EOLhyphen"/>liance, with <hi>England:</hi> And that King, you perceive was in a broken, diſtreſſed and pittifull Eſtate. The firſt the invador and oppreſſor; The laſt, the ſurprized, in<g ref="char:EOLhyphen"/>vaded and oppreſſed, and almoſt paſt relief. So that it ſeems ſtrange to more that underſtand the true State of thoſe affaires, how it can enter into the thoughts of an ho<g ref="char:EOLhyphen"/>neſt man, to ſtrengthen and ſuccour the King of <hi>Sweden,</hi> againſt the King, or Kingdome of <hi>Den<g ref="char:EOLhyphen"/>mark.</hi>
+            </p>
+            <p n="2">2. And to the end, that you may know the grounds, whereon the Lords the States Generall of the united Pro<g ref="char:EOLhyphen"/>vinces have ſent a fleet of ſhips, to aſſiſt the ſaid King of <hi>Denmark</hi> in this his diſtreſſed Condition. It is known and notorious, that it is the intereſt of the ſaid United Provinces (if not of all the Chriſtian Prince;) that the Kingdomes and Territories round about the Baltick Sea be preſerved in Peace and tranquillity, (the Warres and differences, having alwaies been very prejudiciall to the Trade and Commerce, eſpecially of the <hi>Netherlanders</hi> in the Eaſt Countries) and to maintain the reſpective Nor<g ref="char:EOLhyphen"/>thern Kings, in their own Kingdomes, and Territo<g ref="char:EOLhyphen"/>ries. Therefore they have firſt contracted, and eſtabliſhed a defenſive League and Alliance with <hi>Sweden,</hi> in the year 1640. To defend each others Dominions and Territories, as alſo the Freedome and liberty of Commerce, and Na<g ref="char:EOLhyphen"/>vigation in the ſaid <hi>Baltick</hi> Sea. And have to the ſame end and purpoſe ſince, with the Communication and
+<pb n="4" facs="tcp:65190:4"/>approbation of <hi>Sweden,</hi> made a defenſive Alliance, with the King and Kingdome of <hi>Denmark</hi> in the year, 1649. Whereby both were obliged to Succour, and aſſiſt that confaederate, who ſhould be aſſaulted and invaded, or otherwiſe oppreſſed: Which Treaty hath likewiſe been Communicated to the Government of <hi>England.</hi> And ſince that the Queen Chriſtian had reſigned the Crown to the preſent moſt potent King <hi>Charles Guſtave,</hi> the ſaid Lords, the States Generall have uſed all poſſible Endeavours, to renew it with his High Renowned Ma<g ref="char:EOLhyphen"/>jeſtie; And did aſſure themſelves, that with the Con<g ref="char:EOLhyphen"/>currence and Co-operation, of his Late Moſt Serene High<g ref="char:EOLhyphen"/>neſſe, the ſaid Alliance ſhould have been confirmed, and fully eſtabliſhed. But to their great griefe, his Majeſty was pleaſed to wave, or to delay it upon pretence, that ſome preliminary Declarations were to be firſt made, and aſſurances given. And in the mean time did on the ninth of <hi>Auguſt</hi> laſt paſt, <hi>Stilo veteri,</hi> invade with his Royall Army and Navy, the Iſle of <hi>Zealand,</hi> and aſſaulted at the ſame time the Places and Dominions of the King of <hi>Denmark</hi> in <hi>Holſtein</hi> under the Roman Empire. At which unhappy accident, the ſaid Lords, the States Generall, were very much troubled; And being ſum<g ref="char:EOLhyphen"/>moned by the King of <hi>Denmark,</hi> in performance of the ſaid defenſive Alliance, to ſuccour him in his oppreſſion and extremity, They were bound in honour and conſci<g ref="char:EOLhyphen"/>ence, to accompliſh and to keep honeſtly the ſaid ſolemn Treaty. As by the Laws of all Nations, yea of the Hea<g ref="char:EOLhyphen"/>then themſelves, it is reſolved without any controverſie, that publick Treaties are to be kept, and Nationall ingage<g ref="char:EOLhyphen"/>ments to be Religiouſly performed. And <hi>Ambroſe, Tulli<g ref="char:EOLhyphen"/>us Cicero,</hi> and others have taught: <hi>Qui non repellit inin<g ref="char:EOLhyphen"/>riam a ſocio cum poteſt, tameſt in vitio, quam ille qui facit:</hi> That is, he that doth not repell, and hinder an injurie to he done to his friend, or aſſociate, when it is in his power, is as much in the fault, as if he did commit it himſelf. <hi>Plato</hi> ſaith, that he is to be puniſhed, who doth
+<pb n="5" facs="tcp:65190:4"/>not interpoſe, when he ſeeth that wrong is done to ano<g ref="char:EOLhyphen"/>ther. And the wiſe King in the Proverbs teacheth as much.</p>
+            <p>And although the ſaid Lords the States Generall, were obliged by all the Laws of God and men, and by the ſaid ſpecial Treaty, to ſuccour the ſaid King of <hi>Denmarke,</hi> (as they muſt and would have done the King of <hi>Sweden,</hi> in caſe of like neceſſity) yet they did it not precipitately nor inconſiderately, by themſelves alone, but did Com<g ref="char:EOLhyphen"/>municate and Conferre about it with the Supream Autho<g ref="char:EOLhyphen"/>rity of <hi>England,</hi> or the publique Miniſters of the ſame, deſiring very inſtantly that they might know how the ſaid Invaſion was apprehended, on the behalf of <hi>England,</hi> and what was thought fit in <hi>England,</hi> ſhould be done there<g ref="char:EOLhyphen"/>upon, by or on the behalf of the ſaid United Provinces: And they did likewiſe Communicate ſincerely, what Suc<g ref="char:EOLhyphen"/>cours and Aſſiſtance they were preparing, and ſending to his oppreſſed Majeſty of <hi>Denmarke.</hi> And they not being diſſwaded to ſend it, and conceiving that it was as much <hi>Englands</hi> Intereſt as their own, that the Kingdom of <hi>Den<g ref="char:EOLhyphen"/>marke,</hi> and the whole Dominion of the Baltick Sea, ſhould not be ſubdued and brought under the Power of the King of <hi>Sweden,</hi> have ſent a part of their Fleet to Convoy a ſupply of ſome two thouſand Souldiers to <hi>Coppenhagen.</hi> And their Admiral, finding that the <hi>Swedes</hi> did oppoſe and obſtruct his paſſage, was forced to make it.</p>
+            <p>Which being the true ſtate of the Caſe, it is hoped that no Chriſtian will think that there is any the leaſt Ground, Reaſon, Juſtice or Equity, to ſend any Succour to the King of <hi>Sweden,</hi> againſt <hi>Denmarke,</hi> or the United Provinces, or their Ships of Warre in the Sound or Baltick Sea. But that it will be thought fit to Co-operate by fair means, to re-eſtabliſh a firm Peace and Tranquility be<g ref="char:EOLhyphen"/>twixt the ſaid two Kings, and the other States and Poten<g ref="char:EOLhyphen"/>tates in the ſaid Eaſt Countries; and to preſerve inviolably a true Amity, Union and Confederation, between <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the United Provinces; and to ſecure a Free
+<pb n="6" facs="tcp:65190:5"/>Trade and Commerce for all their Subjects indifferently; within the ſaid Sound or Baltick Sea, under the Ancient, Reaſonable Cuſtoms and Duties only, and equally to de<g ref="char:EOLhyphen"/>fend and ſuccour the ſaid two Kings, and all other Prin<g ref="char:EOLhyphen"/>ces and Dominions of thoſe adjacent Countries, againſt all Invaſions and Oppreſſions of each other, thereby to ſtrengthen and ſupport the Proteſtant Intereſt, as well as that of Trade and Profit, and to lay a good Foundation of Peace and Honour for themſelves, their Subjects and Poſterities, and to weaken and diſcourage the deſignes of all their Enemies, and Religiouſly to hope for a bleſſing from the God of Truth and Peace, upon ſuch their Juſt and Pious Proceedings.</p>
+            <pb facs="tcp:65190:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
